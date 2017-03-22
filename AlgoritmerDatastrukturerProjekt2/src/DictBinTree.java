@@ -1,5 +1,5 @@
 /**
- *
+ * This class represents a binary search tree.
  * @author Niels Heltner (nhelt15) & Antonio Lascari (anlas15)
  */
 public class DictBinTree implements Dict {

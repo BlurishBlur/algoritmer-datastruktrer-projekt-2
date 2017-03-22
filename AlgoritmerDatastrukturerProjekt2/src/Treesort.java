@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- *
+ * Class to sort numbers, utilizing a binary search tree.
  * @author Niels Heltner (nhelt15) & Antonio Lascari (anlas15)
  */
 public class Treesort {
